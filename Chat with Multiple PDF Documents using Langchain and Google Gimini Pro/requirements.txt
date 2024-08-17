@@ -1,0 +1,7 @@
+streamlit
+python-dotenv
+google-generativeai
+langchain
+PyPDF2
+faiss-cpu #for less numbers of files  use Faiss-cpu but for a large amount of Files use Faiss-GPU
+langchain_google_genai
